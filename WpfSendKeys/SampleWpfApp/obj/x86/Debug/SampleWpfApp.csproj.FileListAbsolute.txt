@@ -1,0 +1,14 @@
+D:\Hello-world\WpfSendKeys\SampleWpfApp\bin\Debug\SampleWpfApp.exe
+D:\Hello-world\WpfSendKeys\SampleWpfApp\bin\Debug\SampleWpfApp.pdb
+D:\Hello-world\WpfSendKeys\SampleWpfApp\bin\Debug\WpfSendKeys.dll
+D:\Hello-world\WpfSendKeys\SampleWpfApp\bin\Debug\WpfSendKeys.pdb
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\SampleWpfApp.csprojResolveAssemblyReference.cache
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\MainWindow.baml
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\MainWindow.g.cs
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\App.g.cs
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\SampleWpfApp_MarkupCompile.cache
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\SampleWpfApp.g.resources
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\SampleWpfApp.Properties.Resources.resources
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\SampleWpfApp.csproj.GenerateResource.Cache
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\SampleWpfApp.exe
+D:\Hello-world\WpfSendKeys\SampleWpfApp\obj\x86\Debug\SampleWpfApp.pdb

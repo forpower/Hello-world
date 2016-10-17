@@ -1,0 +1,5 @@
+D:\Hello-world\WpfSendKeys\WpfSendKeys\bin\Debug\WpfSendKeys.dll
+D:\Hello-world\WpfSendKeys\WpfSendKeys\bin\Debug\WpfSendKeys.pdb
+D:\Hello-world\WpfSendKeys\WpfSendKeys\obj\Debug\WpfSendKeys.csprojResolveAssemblyReference.cache
+D:\Hello-world\WpfSendKeys\WpfSendKeys\obj\Debug\WpfSendKeys.dll
+D:\Hello-world\WpfSendKeys\WpfSendKeys\obj\Debug\WpfSendKeys.pdb
